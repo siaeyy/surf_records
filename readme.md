@@ -1,3 +1,6 @@
+> Records was obtained on the servers.<br>
+> There may be better ones but they were not found/recorded.
+
 ## Tier 1
 ### Staged
 - [surf_beeps](/surf_beeps.jpg) (__21.906__)
