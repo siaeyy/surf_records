@@ -1,5 +1,10 @@
+> ### Note:
 > Records was obtained on the servers.<br>
 > There may be better ones but they were not found/recorded.
+
+> ### Rules:
+> - Normal style
+> - No bunny hopping at start
 
 ## Tier 1
 ### Staged
